@@ -1,0 +1,256 @@
+{
+  "siteInfo": {
+    "name": {
+      "en": "SC Model School & College",
+      "bn": "এস সি মডেল স্কুল ও কলেজ"
+    },
+    "address": {
+      "en": "123 Academic Road, Dhaka-1216, Bangladesh",
+      "bn": "১২৩ একাডেমিক রোড, ঢাকা-১২১৬, বাংলাদেশ"
+    },
+    "phone": "+880-2-123456789",
+    "email": "info@scmodelschool.edu.bd",
+    "bkashNumber": "01712345678"
+  },
+  "navigation": {
+    "en": [
+      { "name": "Home", "path": "/" },
+      { "name": "About", "path": "/about" },
+      { "name": "Academic", "path": "/academic" },
+      { "name": "Admission", "path": "/admission" },
+      { "name": "Teachers", "path": "/teachers" },
+      { "name": "Contact", "path": "/contact" },
+      { "name": "Login", "path": "/login" }
+    ],
+    "bn": [
+      { "name": "হোম", "path": "/" },
+      { "name": "পরিচিতি", "path": "/about" },
+      { "name": "একাডেমিক", "path": "/academic" },
+      { "name": "ভর্তি", "path": "/admission" },
+      { "name": "শিক্ষকবৃন্দ", "path": "/teachers" },
+      { "name": "যোগাযোগ", "path": "/contact" },
+      { "name": "লগইন", "path": "/login" }
+    ]
+  },
+  "hero": {
+    "title": {
+      "en": "Excellence in Education Since 1995",
+      "bn": "১৯৯৫ সাল থেকে শিক্ষায় উৎকর্ষতা"
+    },
+    "subtitle": {
+      "en": "Nurturing minds, building futures, creating leaders for tomorrow",
+      "bn": "মনের যত্নে, ভবিষ্যৎ গড়ায়, আগামীর নেতা তৈরিতে"
+    }
+  },
+  "news": [
+    {
+      "en": "Admission for 2025 academic year now open - Apply before March 15th",
+      "bn": "২০২৫ শিক্ষাবর্ষের ভর্তি শুরু - ১৫ মার্চের মধ্যে আবেদন করুন"
+    },
+    {
+      "en": "HSC Results 2024: 98% pass rate with 45 students achieving GPA 5.00",
+      "bn": "এইচএসসি ফলাফল ২০২৪: ৯৮% পাস, ৪৫ জন জিপিএ ৫.০০ অর্জন"
+    },
+    {
+      "en": "Annual Sports Day scheduled for February 20th, 2025",
+      "bn": "বার্ষিক ক্রীড়া দিবস ২০ ফেব্রুয়ারি, ২০২৫ নির্ধারিত"
+    },
+    {
+      "en": "Science Fair 2025: Students showcase innovative projects",
+      "bn": "বিজ্ঞান মেলা ২০২৫: শিক্ষার্থীরা উদ্ভাবনী প্রকল্প প্রদর্শন"
+    }
+  ],
+  "about": {
+    "college": {
+      "title": {
+        "en": "About Our Institution",
+        "bn": "আমাদের প্রতিষ্ঠান সম্পর্কে"
+      },
+      "description": {
+        "en": "Established in 1995, SC Model School & College has been a beacon of educational excellence in Bangladesh for over 25 years. With a commitment to holistic education, we have successfully guided over 3,000 students towards academic and personal success. Our institution combines traditional values with modern teaching methodologies to create an environment where every student can thrive and reach their full potential.",
+        "bn": "১৯৯৫ সালে প্রতিষ্ঠিত, এস সি মডেল স্কুল ও কলেজ ২৫ বছরেরও বেশি সময় ধরে বাংলাদেশে শিক্ষার উৎকর্ষতার আলোকবর্তিকা হিসেবে কাজ করে আসছে। সামগ্রিক শিক্ষার প্রতি প্রতিশ্রুতিবদ্ধ হয়ে আমরা সফলভাবে ৩,০০০+ শিক্ষার্থীকে একাডেমিক ও ব্যক্তিগত সাফল্যের দিকে পরিচালিত করেছি। আমাদের প্রতিষ্ঠান ঐতিহ্যবাহী মূল্যবোধের সাথে আধুনিক শিক্ষা পদ্ধতির সমন্বয় ঘটিয়ে এমন একটি পরিবেশ তৈরি করেছে যেখানে প্রতিটি শিক্ষার্থী উন্নতি লাভ করতে এবং তাদের পূর্ণ সম্ভাবনায় পৌঁছাতে পারে।"
+      }
+    },
+    "principal": {
+      "name": "Dr. Abdul Rahman Khan",
+      "message": {
+        "en": "Welcome to SC Model School & College. As Principal, I am proud to lead an institution that has consistently maintained the highest standards of education. Our dedicated faculty and comprehensive curriculum ensure that every student receives the best possible foundation for their future endeavors. We believe in nurturing not just academic excellence, but also character, creativity, and critical thinking skills that will serve our students throughout their lives.",
+        "bn": "এস সি মডেল স্কুল ও কলেজে আপনাদের স্বাগতম। অধ্যক্ষ হিসেবে আমি এমন একটি প্রতিষ্ঠানের নেতৃত্ব দিতে গর্বিত যা ধারাবাহিকভাবে শিক্ষার সর্বোচ্চ মান বজায় রেখেছে। আমাদের নিবেদিতপ্রাণ শিক্ষকমণ্ডলী এবং ব্যাপক পাঠ্যক্রম নিশ্চিত করে যে প্রতিটি শিক্ষার্থী তাদের ভবিষ্যৎ প্রচেষ্টার জন্য সর্বোত্তম ভিত্তি পায়। আমরা শুধুমাত্র একাডেমিক উৎকর্ষতা নয়, বরং চরিত্র, সৃজনশীলতা এবং সমালোচনামূলক চিন্তাভাবনার দক্ষতা বিকাশে বিশ্বাস করি যা আমাদের শিক্ষার্থীদের সারাজীবন কাজে আসবে।"
+      }
+    }
+  },
+  "achievements": [
+    {
+      "title": {
+        "en": "Best Debater 2024",
+        "bn": "সেরা বিতর্কবিদ ২০২৪"
+      },
+      "student": "Fatima Rahman",
+      "class": "Class XII"
+    },
+    {
+      "title": {
+        "en": "Science Olympiad Gold",
+        "bn": "বিজ্ঞান অলিম্পিয়াড স্বর্ণ"
+      },
+      "student": "Mohammad Ali",
+      "class": "Class XI"
+    },
+    {
+      "title": {
+        "en": "HSC GPA 5.00 Achievers",
+        "bn": "এইচএসসি জিপিএ ৫.০০ অর্জনকারী"
+      },
+      "student": "45 Students",
+      "class": "Batch 2024"
+    }
+  ],
+  "facilities": [
+    {
+      "title": {
+        "en": "Modern Science Labs",
+        "bn": "আধুনিক বিজ্ঞান ল্যাব"
+      },
+      "description": {
+        "en": "Fully equipped physics, chemistry and biology laboratories",
+        "bn": "সম্পূর্ণ সুসজ্জিত পদার্থ, রসায়ন ও জীববিজ্ঞান গবেষণাগার"
+      }
+    },
+    {
+      "title": {
+        "en": "Digital Library",
+        "bn": "ডিজিটাল লাইব্রেরি"
+      },
+      "description": {
+        "en": "Over 10,000 books and digital resources for research",
+        "bn": "গবেষণার জন্য ১০,০০০+ বই এবং ডিজিটাল সম্পদ"
+      }
+    },
+    {
+      "title": {
+        "en": "Cultural Center",
+        "bn": "সাংস্কৃতিক কেন্দ্র"
+      },
+      "description": {
+        "en": "Dedicated space for music, dance and drama activities",
+        "bn": "সঙ্গীত, নৃত্য ও নাটকের জন্য বিশেষ স্থান"
+      }
+    }
+  ],
+  "teachers": [
+    {
+      "id": 1,
+      "name": "Prof. Dr. Rashida Begum",
+      "subject": "Mathematics",
+      "designation": "Head of Mathematics",
+      "image": "teacher1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Md. Karim Uddin",
+      "subject": "Physics",
+      "designation": "Senior Lecturer",
+      "image": "teacher2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Nasreen Akter",
+      "subject": "English",
+      "designation": "Assistant Professor",
+      "image": "teacher3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Dr. Aminul Islam",
+      "subject": "Chemistry",
+      "designation": "Professor",
+      "image": "teacher4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Sultana Razia",
+      "subject": "Biology",
+      "designation": "Lecturer",
+      "image": "teacher5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Mohammed Hasan",
+      "subject": "Bengali",
+      "designation": "Senior Teacher",
+      "image": "teacher6.jpg"
+    }
+  ],
+  "notices": [
+    {
+      "id": 1,
+      "title": {
+        "en": "HSC Exam Routine Published",
+        "bn": "এইচএসসি পরীক্ষার রুটিন প্রকাশিত"
+      },
+      "date": "2025-01-15",
+      "category": "Examination"
+    },
+    {
+      "id": 2,
+      "title": {
+        "en": "Registration for Annual Sports Day",
+        "bn": "বার্ষিক ক্রীড়া দিবসের নিবন্ধন"
+      },
+      "date": "2025-01-20",
+      "category": "Sports"
+    },
+    {
+      "id": 3,
+      "title": {
+        "en": "Parent-Teacher Meeting Notice",
+        "bn": "অভিভাবক-শিক্ষক সভার নোটিশ"
+      },
+      "date": "2025-01-25",
+      "category": "Meeting"
+    }
+  ],
+  "schedule": [
+    {
+      "day": "Sunday",
+      "time": "8:00 AM - 9:00 AM",
+      "subject": "Mathematics",
+      "teacher": "Prof. Dr. Rashida Begum",
+      "class": "XII"
+    },
+    {
+      "day": "Sunday", 
+      "time": "9:00 AM - 10:00 AM",
+      "subject": "Physics",
+      "teacher": "Md. Karim Uddin",
+      "class": "XII"
+    },
+    {
+      "day": "Monday",
+      "time": "8:00 AM - 9:00 AM",
+      "subject": "English",
+      "teacher": "Nasreen Akter",
+      "class": "XI"
+    }
+  ],
+  "admission": {
+    "instructions": {
+      "title": {
+        "en": "Admission Instructions",
+        "bn": "ভর্তির নির্দেশাবলী"
+      },
+      "eligibility": {
+        "en": "Students who have passed SSC/O-Level with minimum GPA 3.50 are eligible to apply",
+        "bn": "এসএসসি/ও-লেভেল ন্যূনতম জিপিএ ৩.৫০ সহ উত্তীর্ণ শিক্ষার্থীরা আবেদন করতে পারবেন"
+      },
+      "documents": {
+        "en": "Required documents: SSC Certificate, Birth Certificate, Parents' NID, Recent Photos",
+        "bn": "প্রয়োজনীয় কাগজপত্র: এসএসসি সার্টিফিকেট, জন্ম নিবন্ধন, পিতামাতার এনআইডি, সাম্প্রতিক ছবি"
+      },
+      "fee": {
+        "en": "Application Fee: 500 BDT (Pay via bKash: 01712345678)",
+        "bn": "আবেদন ফি: ৫০০ টাকা (বিকাশে পেমেন্ট: ০১৭১২৩৪৫৬৭৮)"
+      }
+    }
+  }
+}
